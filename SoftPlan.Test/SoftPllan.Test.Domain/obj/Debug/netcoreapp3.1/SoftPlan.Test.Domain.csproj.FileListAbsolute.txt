@@ -1,0 +1,10 @@
+C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\bin\Debug\netcoreapp3.1\SoftPlan.Test.Domain.deps.json
+C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\bin\Debug\netcoreapp3.1\SoftPlan.Test.Domain.dll
+C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\bin\Debug\netcoreapp3.1\SoftPlan.Test.Domain.pdb
+C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.AssemblyInfo.cs
+C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.dll
+C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.pdb
+C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.csproj.AssemblyReference.cache

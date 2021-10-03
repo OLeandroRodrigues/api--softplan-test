@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>5</WarningLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SoftPlan.Test.Application\SoftPlan.Test.Application.csproj" />
+    <ProjectReference Include="..\SoftPlan.Test.CrossCutting\SoftPlan.Test.CrossCutting.csproj" />
+    <ProjectReference Include="..\SoftPlan.Test.Data\SoftPlan.Test.Data.csproj" />
+    <ProjectReference Include="..\SoftPllan.Test.Domain\SoftPlan.Test.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>
