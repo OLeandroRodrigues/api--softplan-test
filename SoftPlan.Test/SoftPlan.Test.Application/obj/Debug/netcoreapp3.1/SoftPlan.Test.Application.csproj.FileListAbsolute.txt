@@ -11,3 +11,16 @@ C:\Projetos\Teste\SoftPlan.Test\SoftPlan.Test.Application\obj\Debug\netcoreapp3.
 C:\Projetos\Teste\SoftPlan.Test\SoftPlan.Test.Application\obj\Debug\netcoreapp3.1\SoftPlan.Test.Application.csproj.CopyComplete
 C:\Projetos\Teste\SoftPlan.Test\SoftPlan.Test.Application\obj\Debug\netcoreapp3.1\SoftPlan.Test.Application.dll
 C:\Projetos\Teste\SoftPlan.Test\SoftPlan.Test.Application\obj\Debug\netcoreapp3.1\SoftPlan.Test.Application.pdb
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\bin\Debug\netcoreapp3.1\SoftPlan.Test.Application.deps.json
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\bin\Debug\netcoreapp3.1\SoftPlan.Test.Application.dll
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\bin\Debug\netcoreapp3.1\SoftPlan.Test.Application.pdb
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\bin\Debug\netcoreapp3.1\SoftPlan.Test.Domain.dll
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\bin\Debug\netcoreapp3.1\SoftPlan.Test.Domain.pdb
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\obj\Debug\netcoreapp3.1\SoftPlan.Test.Application.csproj.AssemblyReference.cache
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\obj\Debug\netcoreapp3.1\SoftPlan.Test.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\obj\Debug\netcoreapp3.1\SoftPlan.Test.Application.AssemblyInfoInputs.cache
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\obj\Debug\netcoreapp3.1\SoftPlan.Test.Application.AssemblyInfo.cs
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\obj\Debug\netcoreapp3.1\SoftPlan.Test.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\obj\Debug\netcoreapp3.1\SoftPlan.Test.Application.csproj.CopyComplete
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\obj\Debug\netcoreapp3.1\SoftPlan.Test.Application.dll
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.Application\obj\Debug\netcoreapp3.1\SoftPlan.Test.Application.pdb

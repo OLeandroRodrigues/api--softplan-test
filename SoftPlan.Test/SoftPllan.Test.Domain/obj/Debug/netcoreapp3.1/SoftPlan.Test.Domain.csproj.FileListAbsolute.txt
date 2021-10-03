@@ -8,3 +8,13 @@ C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\So
 C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.dll
 C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.pdb
 C:\Projetos\Teste\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Github\SoftPlan.Test\SoftPllan.Test.Domain\bin\Debug\netcoreapp3.1\SoftPlan.Test.Domain.deps.json
+C:\Projetos\Github\SoftPlan.Test\SoftPllan.Test.Domain\bin\Debug\netcoreapp3.1\SoftPlan.Test.Domain.dll
+C:\Projetos\Github\SoftPlan.Test\SoftPllan.Test.Domain\bin\Debug\netcoreapp3.1\SoftPlan.Test.Domain.pdb
+C:\Projetos\Github\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Github\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Github\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Github\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.AssemblyInfo.cs
+C:\Projetos\Github\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Github\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.dll
+C:\Projetos\Github\SoftPlan.Test\SoftPllan.Test.Domain\obj\Debug\netcoreapp3.1\SoftPlan.Test.Domain.pdb

@@ -10,7 +10,7 @@ namespace SoftPlan.Test.API2.Controllers
         [HttpGet("showmethecode")]
         public async Task<ActionResult<string>> GetUrlSourceProjectInGit()
         {
-            return await Task.FromResult(ResponseMessage(HttpStatusCode.OK,"https://how"));
+            return await Task.FromResult(ResponseMessage(HttpStatusCode.OK, "https://github.com/OLeandroRodrigues/api--softplan-test"));
         }
     }
 }

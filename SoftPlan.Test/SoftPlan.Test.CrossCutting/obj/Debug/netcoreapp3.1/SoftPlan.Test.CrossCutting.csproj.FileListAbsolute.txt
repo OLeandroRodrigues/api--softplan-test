@@ -8,3 +8,13 @@ C:\Projetos\Teste\SoftPlan.Test\SoftPlan.Test.CrossCutting\obj\Debug\netcoreapp3
 C:\Projetos\Teste\SoftPlan.Test\SoftPlan.Test.CrossCutting\obj\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.dll
 C:\Projetos\Teste\SoftPlan.Test\SoftPlan.Test.CrossCutting\obj\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.pdb
 C:\Projetos\Teste\SoftPlan.Test\SoftPlan.Test.CrossCutting\obj\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.csproj.AssemblyReference.cache
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.CrossCutting\bin\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.deps.json
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.CrossCutting\bin\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.dll
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.CrossCutting\bin\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.pdb
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.CrossCutting\obj\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.csproj.AssemblyReference.cache
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.CrossCutting\obj\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.CrossCutting\obj\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.AssemblyInfoInputs.cache
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.CrossCutting\obj\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.AssemblyInfo.cs
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.CrossCutting\obj\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.CrossCutting\obj\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.dll
+C:\Projetos\Github\SoftPlan.Test\SoftPlan.Test.CrossCutting\obj\Debug\netcoreapp3.1\SoftPlan.Test.CrossCutting.pdb

@@ -20,7 +20,7 @@ namespace SoftPlan.Test.API.Test
         public void GetUrlSourceProjectInGitWithSuccess()
         {
             // arrange
-            string urlGit = "https://how";
+            string urlGit = "https://github.com/OLeandroRodrigues/api--softplan-test";
 
             // action
             var result = _target.GetUrlSourceProjectInGit();
